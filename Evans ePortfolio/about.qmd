@@ -1,0 +1,7 @@
+---
+title: "Resume"
+about:
+  template: solana
+---
+
+<img src="Resume.1.jpeg" alt="Resume 1" width="100%"/> <img src="Resume.2.jpeg" alt="Resume 2" width="100%"/> <img src="Resume.3.jpeg" alt="Resume 3" width="100%"/> ---

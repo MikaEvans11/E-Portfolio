@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mika Evans",
+    "section": "",
+    "text": "I’m a small-town kid hailing from the picturesque community of Prattsville, Arkansas, where family has always been at the core of my life. My parents, Guy and Terra Evans, along with my little sister Kaylee, have provided the unwavering support and love that have shaped my journey. Growing up, my parents encouraged my passion for sports, and I immersed myself in football, basketball, and baseball from a young age. It was through these experiences that I developed a deep love for sports, particularly basketball, which became a central part of my life all the way through my high school years. These formative experiences not only instilled in me the values of teamwork and determination but also solidified my unwavering commitment to family and community.\nFollowing high school, I embarked on a different path, joining the Air Force National Guard as a weatherman. This journey has taken me on incredible adventures, allowing me to travel to various places around the world. One significant chapter was my deployment to Erbil, Iraq, from November 2022 to May 2023, where I had the honor of serving my country. These experiences, though challenging, have broadened my horizons and given me a profound appreciation for the diverse cultures and landscapes our world has to offer. Now, as I resume my educational pursuits, I’m on a mission to earn a bachelor’s degree in Industrial Engineering at the University of Arkansas, where I hope to apply the same dedication and teamwork I learned through sports and the military to excel in my academic and professional endeavors. My journey so far has taught me that family, passion, and the pursuit of education are the driving forces behind my aspirations, and I look forward to what the future holds on this exciting path."
+  },
+  {
+    "objectID": "index.html#a-bit-about-me",
+    "href": "index.html#a-bit-about-me",
+    "title": "Mika Evans",
+    "section": "",
+    "text": "I’m a small-town kid hailing from the picturesque community of Prattsville, Arkansas, where family has always been at the core of my life. My parents, Guy and Terra Evans, along with my little sister Kaylee, have provided the unwavering support and love that have shaped my journey. Growing up, my parents encouraged my passion for sports, and I immersed myself in football, basketball, and baseball from a young age. It was through these experiences that I developed a deep love for sports, particularly basketball, which became a central part of my life all the way through my high school years. These formative experiences not only instilled in me the values of teamwork and determination but also solidified my unwavering commitment to family and community.\nFollowing high school, I embarked on a different path, joining the Air Force National Guard as a weatherman. This journey has taken me on incredible adventures, allowing me to travel to various places around the world. One significant chapter was my deployment to Erbil, Iraq, from November 2022 to May 2023, where I had the honor of serving my country. These experiences, though challenging, have broadened my horizons and given me a profound appreciation for the diverse cultures and landscapes our world has to offer. Now, as I resume my educational pursuits, I’m on a mission to earn a bachelor’s degree in Industrial Engineering at the University of Arkansas, where I hope to apply the same dedication and teamwork I learned through sports and the military to excel in my academic and professional endeavors. My journey so far has taught me that family, passion, and the pursuit of education are the driving forces behind my aspirations, and I look forward to what the future holds on this exciting path."
+  },
+  {
+    "objectID": "index.html#favorite-quote",
+    "href": "index.html#favorite-quote",
+    "title": "Mika Evans",
+    "section": "Favorite quote",
+    "text": "Favorite quote\n“The harder you work the luckier you get.” - Ted Lasso"
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Mika Evans",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nGolfing\nVolleyball\nHanging out with friends\nSpending time with Family\nTraveling\nHunting\nWatching Football and Basketball"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Resume",
+    "section": "",
+    "text": "—"
+  }
+]
